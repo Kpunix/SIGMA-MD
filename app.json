@@ -18,7 +18,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "Kelvin Unix"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
@@ -36,7 +36,7 @@
     "ANTILINK_VALUES": {
       "description": "Put antilink values. IT will take action on below links , change according to your need",
       "value": "https://,chat.whatsapp.com,youtube.com,instagram.com,tiktok.com,vt.tiktok.com,wa.me,facebook.com",
-      "required": false
+      "required": true
     },
     "ANTI_BAD_WORDS": {
       "description": "Add Anti Bad_Words. Change or add according to your need",
@@ -59,10 +59,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "255678925070"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
+      "value": "26_07_2024_SIGMA_MD_5aw29WnL_MAHER_ZUBAIR" 
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -90,15 +91,15 @@
     "MZTIT": {
       "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
       "value": "🅼♥︎❚❚♥︎🆉",
-      "required": false
+      "required": true
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Tanzania/Dodoma"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
-      "value": "sɪɢᴍᴀ-ᴍᴅ"
+      "value": "KELVIN ROBOT"
     }
   },
   "addons": [
